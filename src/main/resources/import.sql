@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('Emily Deschanel', '57737399097', 10000.00, '1976-10-11', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('David Boreanaz', '04737770027', 10000.00, '1969-05-16', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('Michaela Conlin', '49746944053', 8000.00, '1978-06-09', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('T.J. Thyne', '33148603079', 8000.00, '1975-03-07', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('Tamara Taylor', '50538904046', 8000.00, '1970-09-27', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('John Francis Daley', '64051509095', 8000.00, '1985-07-20', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('Patricia Belcher', '77576455063', 6000.00, '1954-04-07', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('Eugene Byrd', '56766839023', 6000.00, '1975-08-28', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('Michael Grant Terry', '46675550098', 6000.00, '1983-08-30', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES('Carla Gallo', '61665110007', 6000.00, '1975-06-24', 2);
