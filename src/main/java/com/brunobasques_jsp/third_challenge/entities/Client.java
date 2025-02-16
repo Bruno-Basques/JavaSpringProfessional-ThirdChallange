@@ -1,4 +1,4 @@
-package com.brunobasques_jsp.third_challange.entities;
+package com.brunobasques_jsp.third_challenge.entities;
 
 import java.time.LocalDate;
 import java.util.Objects;

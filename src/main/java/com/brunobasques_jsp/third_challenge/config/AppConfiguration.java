@@ -1,4 +1,4 @@
-package com.brunobasques_jsp.third_challange.config;
+package com.brunobasques_jsp.third_challenge.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

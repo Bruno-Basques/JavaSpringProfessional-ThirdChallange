@@ -8,11 +8,11 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.brunobasques_jsp.third_challange</groupId>
-	<artifactId>JavaSpringProfessional-ThirdChallange</artifactId>
+	<groupId>com.brunobasques_jsp.third_challenge</groupId>
+	<artifactId>JavaSpringProfessional-ThirdChallenge</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>JavaSpringProfessional-ThirdChallange</name>
-	<description>JavaSpringProfessional-ThirdChallange</description>
+	<name>JavaSpringProfessional-ThirdChallenge</name>
+	<description>JavaSpringProfessional-ThirdChallenge</description>
 	<url/>
 	<licenses>
 		<license/>

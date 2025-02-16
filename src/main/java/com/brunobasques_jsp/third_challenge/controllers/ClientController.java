@@ -1,4 +1,4 @@
-package com.brunobasques_jsp.third_challange.controllers;
+package com.brunobasques_jsp.third_challenge.controllers;
 
 import java.net.URI;
 
@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.brunobasques_jsp.third_challange.entities.Client;
-import com.brunobasques_jsp.third_challange.dto.ClientDTO;
-import com.brunobasques_jsp.third_challange.services.ClientService;
+import com.brunobasques_jsp.third_challenge.dto.ClientDTO;
+import com.brunobasques_jsp.third_challenge.entities.Client;
+import com.brunobasques_jsp.third_challenge.services.ClientService;
 
 import jakarta.validation.Valid;
 

@@ -1,4 +1,4 @@
-package com.brunobasques_jsp.third_challange.controllers.handlers;
+package com.brunobasques_jsp.third_challenge.controllers.handlers;
 
 import java.time.Instant;
 
@@ -11,10 +11,10 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 
 import jakarta.servlet.http.HttpServletRequest;
 
-import com.brunobasques_jsp.third_challange.dto.CustomErrorDTO;
-import com.brunobasques_jsp.third_challange.dto.ValidationErrorDTO;
-import com.brunobasques_jsp.third_challange.services.exceptions.DatabaseException;
-import com.brunobasques_jsp.third_challange.services.exceptions.ResourceNotFoundException;
+import com.brunobasques_jsp.third_challenge.dto.CustomErrorDTO;
+import com.brunobasques_jsp.third_challenge.dto.ValidationErrorDTO;
+import com.brunobasques_jsp.third_challenge.services.exceptions.DatabaseException;
+import com.brunobasques_jsp.third_challenge.services.exceptions.ResourceNotFoundException;
 
 @ControllerAdvice
 public class ControllerExceptionHandler {

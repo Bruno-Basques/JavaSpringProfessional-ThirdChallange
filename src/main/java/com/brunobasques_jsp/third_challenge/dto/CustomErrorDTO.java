@@ -1,4 +1,4 @@
-package com.brunobasques_jsp.third_challange.dto;
+package com.brunobasques_jsp.third_challenge.dto;
 
 import java.time.Instant;
 

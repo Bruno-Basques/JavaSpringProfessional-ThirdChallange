@@ -1,8 +1,6 @@
-package com.brunobasques_jsp.third_challange.dto;
+package com.brunobasques_jsp.third_challenge.dto;
 
 import java.time.LocalDate;
-
-import com.brunobasques_jsp.third_challange.entities.Client;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.PastOrPresent;

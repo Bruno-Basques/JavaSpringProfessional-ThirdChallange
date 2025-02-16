@@ -1,4 +1,4 @@
-package com.brunobasques_jsp.third_challange.services;
+package com.brunobasques_jsp.third_challenge.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataIntegrityViolationException;
@@ -8,10 +8,10 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.brunobasques_jsp.third_challange.entities.Client;
-import com.brunobasques_jsp.third_challange.repositories.ClientRepository;
-import com.brunobasques_jsp.third_challange.services.exceptions.DatabaseException;
-import com.brunobasques_jsp.third_challange.services.exceptions.ResourceNotFoundException;
+import com.brunobasques_jsp.third_challenge.entities.Client;
+import com.brunobasques_jsp.third_challenge.repositories.ClientRepository;
+import com.brunobasques_jsp.third_challenge.services.exceptions.DatabaseException;
+import com.brunobasques_jsp.third_challenge.services.exceptions.ResourceNotFoundException;
 
 import jakarta.persistence.EntityNotFoundException;
 
